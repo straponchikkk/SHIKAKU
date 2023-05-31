@@ -1,0 +1,33 @@
+C:\Users\user.DESKTOP-TSE27ES\Source\Repos\wpf00\Desktop\app1\app1\bin\Debug\app1.exe.config
+C:\Users\user.DESKTOP-TSE27ES\Source\Repos\wpf00\Desktop\app1\app1\bin\Debug\app1.exe
+C:\Users\user.DESKTOP-TSE27ES\Source\Repos\wpf00\Desktop\app1\app1\bin\Debug\app1.pdb
+C:\Users\user.DESKTOP-TSE27ES\Source\Repos\wpf00\Desktop\app1\app1\obj\Debug\CV23.csproj.AssemblyReference.cache
+C:\Users\user.DESKTOP-TSE27ES\Source\Repos\wpf00\Desktop\app1\app1\obj\Debug\CV23.csproj.SuggestedBindingRedirects.cache
+C:\Users\user.DESKTOP-TSE27ES\Source\Repos\wpf00\Desktop\app1\app1\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\user.DESKTOP-TSE27ES\Source\Repos\wpf00\Desktop\app1\app1\obj\Debug\App.g.cs
+C:\Users\user.DESKTOP-TSE27ES\Source\Repos\wpf00\Desktop\app1\app1\obj\Debug\app1_MarkupCompile.cache
+C:\Users\user.DESKTOP-TSE27ES\Source\Repos\wpf00\Desktop\app1\app1\obj\Debug\app1_MarkupCompile.lref
+C:\Users\user.DESKTOP-TSE27ES\Source\Repos\wpf00\Desktop\app1\app1\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\user.DESKTOP-TSE27ES\Source\Repos\wpf00\Desktop\app1\app1\obj\Debug\app1.g.resources
+C:\Users\user.DESKTOP-TSE27ES\Source\Repos\wpf00\Desktop\app1\app1\obj\Debug\app1.Properties.Resources.resources
+C:\Users\user.DESKTOP-TSE27ES\Source\Repos\wpf00\Desktop\app1\app1\obj\Debug\CV23.csproj.GenerateResource.cache
+C:\Users\user.DESKTOP-TSE27ES\Source\Repos\wpf00\Desktop\app1\app1\obj\Debug\CV23.csproj.CoreCompileInputs.cache
+C:\Users\user.DESKTOP-TSE27ES\Source\Repos\wpf00\Desktop\app1\app1\obj\Debug\app1.exe
+C:\Users\user.DESKTOP-TSE27ES\Source\Repos\wpf00\Desktop\app1\app1\obj\Debug\app1.pdb
+C:\Users\user.DESKTOP-TSE27ES\Source\Repos\wpf00\Desktop\app1\app1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\CV23\app1\bin\Debug\app1.exe.config
+C:\Users\artem\OneDrive\Рабочий стол\CV23\app1\bin\Debug\app1.exe
+C:\Users\artem\OneDrive\Рабочий стол\CV23\app1\bin\Debug\app1.pdb
+C:\Users\artem\OneDrive\Рабочий стол\CV23\app1\obj\Debug\CV23.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\CV23\app1\obj\Debug\CV23.csproj.SuggestedBindingRedirects.cache
+C:\Users\artem\OneDrive\Рабочий стол\CV23\app1\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\CV23\app1\obj\Debug\App.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\CV23\app1\obj\Debug\app1_MarkupCompile.cache
+C:\Users\artem\OneDrive\Рабочий стол\CV23\app1\obj\Debug\app1_MarkupCompile.lref
+C:\Users\artem\OneDrive\Рабочий стол\CV23\app1\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\artem\OneDrive\Рабочий стол\CV23\app1\obj\Debug\app1.g.resources
+C:\Users\artem\OneDrive\Рабочий стол\CV23\app1\obj\Debug\app1.Properties.Resources.resources
+C:\Users\artem\OneDrive\Рабочий стол\CV23\app1\obj\Debug\CV23.csproj.GenerateResource.cache
+C:\Users\artem\OneDrive\Рабочий стол\CV23\app1\obj\Debug\CV23.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\CV23\app1\obj\Debug\app1.exe
+C:\Users\artem\OneDrive\Рабочий стол\CV23\app1\obj\Debug\app1.pdb

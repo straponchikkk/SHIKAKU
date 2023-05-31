@@ -1,0 +1,15 @@
+C:\Users\user.DESKTOP-TSE27ES\source\repos\wpf00\Desktop\app1\cv23Console\bin\Debug\net7.0\cv23Console.exe
+C:\Users\user.DESKTOP-TSE27ES\source\repos\wpf00\Desktop\app1\cv23Console\bin\Debug\net7.0\cv23Console.deps.json
+C:\Users\user.DESKTOP-TSE27ES\source\repos\wpf00\Desktop\app1\cv23Console\bin\Debug\net7.0\cv23Console.runtimeconfig.json
+C:\Users\user.DESKTOP-TSE27ES\source\repos\wpf00\Desktop\app1\cv23Console\bin\Debug\net7.0\cv23Console.dll
+C:\Users\user.DESKTOP-TSE27ES\source\repos\wpf00\Desktop\app1\cv23Console\bin\Debug\net7.0\cv23Console.pdb
+C:\Users\user.DESKTOP-TSE27ES\source\repos\wpf00\Desktop\app1\cv23Console\obj\Debug\net7.0\cv23Console.csproj.AssemblyReference.cache
+C:\Users\user.DESKTOP-TSE27ES\source\repos\wpf00\Desktop\app1\cv23Console\obj\Debug\net7.0\cv23Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user.DESKTOP-TSE27ES\source\repos\wpf00\Desktop\app1\cv23Console\obj\Debug\net7.0\cv23Console.AssemblyInfoInputs.cache
+C:\Users\user.DESKTOP-TSE27ES\source\repos\wpf00\Desktop\app1\cv23Console\obj\Debug\net7.0\cv23Console.AssemblyInfo.cs
+C:\Users\user.DESKTOP-TSE27ES\source\repos\wpf00\Desktop\app1\cv23Console\obj\Debug\net7.0\cv23Console.csproj.CoreCompileInputs.cache
+C:\Users\user.DESKTOP-TSE27ES\source\repos\wpf00\Desktop\app1\cv23Console\obj\Debug\net7.0\cv23Console.dll
+C:\Users\user.DESKTOP-TSE27ES\source\repos\wpf00\Desktop\app1\cv23Console\obj\Debug\net7.0\refint\cv23Console.dll
+C:\Users\user.DESKTOP-TSE27ES\source\repos\wpf00\Desktop\app1\cv23Console\obj\Debug\net7.0\cv23Console.pdb
+C:\Users\user.DESKTOP-TSE27ES\source\repos\wpf00\Desktop\app1\cv23Console\obj\Debug\net7.0\cv23Console.genruntimeconfig.cache
+C:\Users\user.DESKTOP-TSE27ES\source\repos\wpf00\Desktop\app1\cv23Console\obj\Debug\net7.0\ref\cv23Console.dll
