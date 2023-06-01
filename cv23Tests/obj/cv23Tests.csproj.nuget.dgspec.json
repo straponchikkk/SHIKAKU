@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artem\\OneDrive\\Рабочий стол\\CV23\\cv23Tests\\cv23Tests.csproj": {}
+    "C:\\Users\\artem\\OneDrive\\Рабочий стол\\123\\cv23Tests\\cv23Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artem\\OneDrive\\Рабочий стол\\CV23\\cv23Tests\\cv23Tests.csproj": {
+    "C:\\Users\\artem\\OneDrive\\Рабочий стол\\123\\cv23Tests\\cv23Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artem\\OneDrive\\Рабочий стол\\CV23\\cv23Tests\\cv23Tests.csproj",
+        "projectUniqueName": "C:\\Users\\artem\\OneDrive\\Рабочий стол\\123\\cv23Tests\\cv23Tests.csproj",
         "projectName": "cv23Tests",
-        "projectPath": "C:\\Users\\artem\\OneDrive\\Рабочий стол\\CV23\\cv23Tests\\cv23Tests.csproj",
+        "projectPath": "C:\\Users\\artem\\OneDrive\\Рабочий стол\\123\\cv23Tests\\cv23Tests.csproj",
         "packagesPath": "C:\\Users\\artem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artem\\OneDrive\\Рабочий стол\\CV23\\cv23Tests\\obj\\",
+        "outputPath": "C:\\Users\\artem\\OneDrive\\Рабочий стол\\123\\cv23Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

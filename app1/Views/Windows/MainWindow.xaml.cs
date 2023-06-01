@@ -22,9 +22,6 @@ namespace app1
     /// </summary>
     public partial class MainWindow : Window
     {
-        private int[,] gameBoard;
-        private int[,] gameResult;
-
         private MatrixViewModel matrixViewModel;
 
         private int[,] level1 = new int[,]
@@ -38,9 +35,9 @@ namespace app1
         private int[,] level1Resut = new int[,]
         {
             { 1, 1, 2, 2 },
-            { 1, 1, 3, 3 },
+            { 1, 1, 2, 2 },
             { 4, 4, 6, 6 },
-            { 5, 5, 6, 6 }
+            { 4, 4, 6, 6 }
         };
 
         private int[,] level2 = new int[,]

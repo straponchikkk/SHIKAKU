@@ -19,6 +19,7 @@ namespace CV23.ViewModels.Base
 
         public event PropertyChangedEventHandler PropertyChanged;
         public List<CellViewModel> selectedPosition = new List<CellViewModel>();
+        public List<CellViewModel> closedCell = new List<CellViewModel>();
         private MatrixModel _matrixModel;
         ObservableCollection<CellViewModel> _cels;
         public ObservableCollection<CellViewModel> Cells
@@ -74,6 +75,7 @@ namespace CV23.ViewModels.Base
             int count = 0;
             int curCount = 0;
             int startNumber = 0;
+            bool containsNumber = false;
             for (int i = 0; i < selectedPosition.Count; i++)
             {
                 CellViewModel cellButton = selectedPosition[i];
@@ -86,17 +88,22 @@ namespace CV23.ViewModels.Base
                     if (count == 0)
                         break;
                 }
-
                 if (startNumber == 0)
                     startNumber = gameResult[row, col];
 
                 if (startNumber != gameResult[row, col])
                     break;
 
+                if (_matrixModel.Matrix[row, col] != 0)
+                {
+                    containsNumber = true;
+                    count = _matrixModel.Matrix[row, col];
+                }
+
                 curCount++;
             }
 
-            if (count == curCount)
+            if (count == curCount && count == selectedPosition.Count && containsNumber)
                 stepTrue();
             else
                 stepFalse();
