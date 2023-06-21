@@ -15,6 +15,60 @@ namespace CV23.ViewModels.Base
 {
     public class MatrixViewModel : INotifyPropertyChanged
     {
+        private int[,] level1 = new int[,]
+        {
+            { 4, 0, 2, 0 },
+            { 0, 0, 0, 2 },
+            { 2, 0, 0, 0 },
+            { 0, 2, 0, 4 }
+        };
+
+        private int[,] level1Resut = new int[,]
+        {
+            { 1, 1, 2, 2 },
+            { 1, 1, 2, 2 },
+            { 4, 4, 6, 6 },
+            { 4, 4, 6, 6 }
+        };
+
+        private int[,] level2 = new int[,]
+        {
+            { 0, 0, 0, 2 },
+            { 4, 0, 0, 4 },
+            { 2, 0, 0, 0 },
+        };
+
+        private int[,] level2Resut = new int[,]
+        {
+            { 1, 1, 2, 2 },
+            { 1, 1, 3, 3 },
+            { 4, 4, 3, 3 },
+        };
+
+        private int[,] level3 = new int[,]
+        {
+            { 0, 0, 0, 5, 0, 0, 2, 0 },
+            { 0, 0, 0, 6, 0, 0, 0, 0 },
+            { 0, 0, 6, 0, 0, 0, 0, 0 },
+            { 4, 0, 2, 0, 0, 4, 0, 6 },
+            { 0, 0, 0, 0, 3, 0, 0, 3 },
+            { 0, 0, 0, 0, 0, 0, 0, 0 },
+            { 0, 0, 0, 10, 0, 0, 3, 0 },
+            { 3, 0, 0, 0, 7, 0, 0, 0 },
+        };
+
+        private int[,] level3Resut = new int[,]
+        {
+            { 1, 1, 1, 1, 1, 2, 3, 3 },
+            { 4, 4, 4, 5, 5, 2, 6, 6 },
+            { 4, 4, 4, 5, 5, 2, 6, 6 },
+            { 7, 7, 8, 5, 5, 2, 6, 6 },
+            { 7, 7, 8, 9, 9, 9, 11, 10 },
+            { 12, 13, 13, 13, 13, 13, 11, 10 },
+            { 12, 13, 13, 13, 13, 13, 11, 10 },
+            { 12, 14, 14, 14, 14, 14, 14, 14 },
+        };
+
         private int[,] gameResult;
 
         public event PropertyChangedEventHandler PropertyChanged;
@@ -164,6 +218,24 @@ namespace CV23.ViewModels.Base
                 }
             }
             return count;
+        }
+
+        public void start1()
+        {
+            MatrixModel matrixModel = new MatrixModel(level1);
+            start(level1Resut, matrixModel);
+        }
+
+        public void start2()
+        {
+            MatrixModel matrixModel = new MatrixModel(level2);
+            start(level2Resut, matrixModel);
+        }
+
+        public void start3()
+        {
+            MatrixModel matrixModel = new MatrixModel(level3);
+            start(level3Resut, matrixModel);
         }
 
         protected virtual void OnPropertyChanged(string propertyName)
